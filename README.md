@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @seungminki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... python ... with jupyter notebook
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+:wave: Hi, I'm Seungmin Ki.
 
 # :fire:Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
